@@ -1,0 +1,15 @@
+﻿  Origine.cpp
+E:\Projects\C++\RPG\RPG\Origine.cpp(122,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+E:\Projects\C++\RPG\RPG\Origine.cpp(190,10): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+E:\Projects\C++\RPG\RPG\Origine.cpp(194,33): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+E:\Projects\C++\RPG\RPG\Origine.cpp(215,37): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+E:\Projects\C++\RPG\RPG\Origine.cpp(223,18): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+E:\Projects\C++\RPG\RPG\Origine.cpp(245,35): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+E:\Projects\C++\RPG\RPG\Origine.cpp(253,18): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+E:\Projects\C++\RPG\RPG\Origine.cpp(305,10): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+E:\Projects\C++\RPG\RPG\Origine.cpp(309,32): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+E:\Projects\C++\RPG\RPG\Origine.cpp(330,37): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+E:\Projects\C++\RPG\RPG\Origine.cpp(338,18): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+E:\Projects\C++\RPG\RPG\Origine.cpp(360,35): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+E:\Projects\C++\RPG\RPG\Origine.cpp(368,18): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+  RPG.vcxproj -> E:\Projects\C++\RPG\Debug\RPG.exe
